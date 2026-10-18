@@ -1,2 +1,2 @@
-# comp-1701-sql-capstone-project
+# Human Resource Database Project
 start mar 26 26
